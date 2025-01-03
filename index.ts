@@ -1,2 +1,2 @@
-const x:number = 7;
+const x:number = 9;
 console.log(x);
